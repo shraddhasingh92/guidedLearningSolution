@@ -1,0 +1,29 @@
+{
+  "name": "player",
+  "version": "1.0.0",
+  "description": "The project is intended to create a Guided Learning Solution (GLS) that enables step by step guidance on top of any web interface.",
+  "main": "player.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shraddhasingh92/guidedLearningSolution.git"
+  },
+  "keywords": [
+    "jquery",
+    "plugin",
+    "steps",
+    "guided",
+    "learning"
+  ],
+  "author": "Shraddha Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shraddhasingh92/guidedLearningSolution/issues"
+  },
+  "homepage": "https://github.com/shraddhasingh92/guidedLearningSolution#readme",
+  "devDependencies": {
+    "mocha": "^8.1.3"
+  }
+}
