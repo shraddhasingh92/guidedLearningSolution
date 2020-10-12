@@ -1,0 +1,68 @@
+.guidecontrol { 
+	position:fixed; 
+	top:20px; left: 20px; 
+	width:300px; 
+	background-color: #fbfbfb; 
+	box-shadow: 0px 0px 10px 0px #d8d8d8; 
+	color:#008BD0; 
+	padding: 10px 10px 20px; 
+	border-radius:5px; 
+	font-weight:bold; 
+	z-index:9999; 
+}
+
+.guidecontrol a { 
+	font-size:11px; 
+	color: #008BD0; 
+	cursor:pointer; 
+	font-weight:normal; 
+	text-decoration:underline; 
+	margin:10px; 
+}
+
+.guidecontrol a:hover { 
+	opacity: 0.5 
+}
+
+.close { 
+	position:absolute; 
+	top:6px; 
+	right:7px; 
+	width:10px; 
+	height:10px; 
+	background: url('https://img.icons8.com/windows/32/000000/close-window.png') no-repeat center center; 
+	cursor:pointer; 
+}
+
+.guidecontrol p { 
+	padding:10px; 
+	margin: 0;
+}
+
+.actionButton { 
+	position: relative; 
+	white-space: nowrap; 
+	display:block; 
+	float:left; 
+	margin:10px 0px 10px 10px; 
+	cursor:pointer; 
+	background-color: #008BD0; 
+	border: 1px solid #008BD0; 
+	border-radius: 5px; 
+	box-shadow: inset 0px 0px 0px 1px rgba(255, 115, 100, 0.4), 0 1px 3px #333; 
+	color: #fff; 
+	font-size: 13px; 
+	font-weight: bold; 
+	letter-spacing: 1px; 
+	line-height: 1; 
+	padding:6px 7px; 
+	text-align: center; 
+	text-shadow: 0px -1px 1px rgba(0, 0, 0, .8); 
+}
+
+.nav { 
+	clear:both; 
+	width:100%; 
+	float:left; 
+	padding-bottom: 10px;
+}
