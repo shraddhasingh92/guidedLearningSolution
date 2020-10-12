@@ -23,6 +23,4 @@ To run the unit test
 3) You will be able to see the test cases, passed, failed and the time taken for execution
 
 
-The video for working application is put up at the following url - 
-
-
+The video for working application is put up at the following url - https://youtu.be/LAWOe5Q6Cq8
